@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="71.5" y="39.5">Flyweight.Dots.Dot</node>
+    <node x="68.0" y="95.0">Flyweight.Field.Field</node>
+    <node x="47.5" y="-15.0">Flyweight.Dots.DotFactory</node>
+    <node x="-62.0" y="39.5">Flyweight.Dots.DotType</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="0.9313225746154785" showDependencies="false" x="220.291015614" y="-45.84784928925001" />
+  <SelectedNodes>
+    <node>Flyweight.Field.Field</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
